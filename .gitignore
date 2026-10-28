@@ -1,0 +1,11 @@
+# SolidWorks 临时/锁文件
+~$*
+*.tmp
+*.bak
+*.swp
+*.log
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
